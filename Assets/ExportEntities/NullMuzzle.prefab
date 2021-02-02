@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8772371194719546437
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9028300717531344275}
+  - component: {fileID: 4726008650194043630}
+  - component: {fileID: 5698347526005771880}
+  - component: {fileID: 5626366810101440467}
+  m_Layer: 8
+  m_Name: NullMuzzle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9028300717531344275
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8772371194719546437}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4726008650194043630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8772371194719546437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c30166444668945a21be4d91bbfdd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainT: {fileID: 9028300717531344275}
+  availableApps: 
+  hasInventory: 0
+  shop: 0
+  value: 200
+  collectedItems: []
+  seats: []
+  hideInterior: {fileID: 0}
+  exitTransform: {fileID: 0}
+  viewAngleLimit: 89
+  turretT: {fileID: 0}
+  barrelT: {fileID: 0}
+  thrownEntities: []
+  thrownDelay: 0
+  thrownSound: {fileID: 0}
+  clipSize: 1
+  itemName: Null Muzzle
+  needItem: 0
+  illegal: 1
+  license:
+    entityName: 
+  weight: 0
+  ammoItem:
+    entityName: 
+  specialT: {fileID: 0}
+  usableGrips: 030000000400000005000000
+  accuracyBuff: 0
+  recoilBuff: 0
+  recoveryBuff: 0
+  fireEffect: 0
+--- !u!114 &5698347526005771880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8772371194719546437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad78ae0596db9b74ab4a05e63e9e8536, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventActions: []
+  horn: {fileID: 0}
+--- !u!114 &5626366810101440467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8772371194719546437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 496b82f67d8501c46b7a4bd8c9763622, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destroyAfter: 0
+  destroyEmpty: 0
+  lockable: 0
+  itemOptions: []
+  mountLicense:
+    entityName: 

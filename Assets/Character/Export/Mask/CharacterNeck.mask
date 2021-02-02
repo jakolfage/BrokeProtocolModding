@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharacterNeck
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Mesh
+    m_Weight: 0
+  - m_Path: LongSleeveFull
+    m_Weight: 0
+  - m_Path: Pants
+    m_Weight: 0
+  - m_Path: Shoes
+    m_Weight: 0
+  - m_Path: ShortSleeveFull
+    m_Weight: 0
+  - m_Path: Shorts
+    m_Weight: 0
+  - m_Path: Ponytail
+    m_Weight: 0
+  - m_Path: EarMuffs
+    m_Weight: 0
+  - m_Path: PilotCap
+    m_Weight: 0
+  - m_Path: BoonieHat
+    m_Weight: 0
+  - m_Path: HostessHat
+    m_Weight: 0
+  - m_Path: Skirt
+    m_Weight: 0
+  - m_Path: Scarf
+    m_Weight: 0
+  - m_Path: Balaclava
+    m_Weight: 0
+  - m_Path: Beret
+    m_Weight: 0
+  - m_Path: Backpack
+    m_Weight: 0
+  - m_Path: Armor
+    m_Weight: 0
+  - m_Path: HazmatHelmet
+    m_Weight: 0
+  - m_Path: FootballHelmet
+    m_Weight: 0
+  - m_Path: ClownHat
+    m_Weight: 0
+  - m_Path: Bandana
+    m_Weight: 0
+  - m_Path: HairBun
+    m_Weight: 0
+  - m_Path: FlatCap
+    m_Weight: 0
+  - m_Path: Sombrero
+    m_Weight: 0
+  - m_Path: Pompadour
+    m_Weight: 0
+  - m_Path: Headband
+    m_Weight: 0
+  - m_Path: Headscarf
+    m_Weight: 0
+  - m_Path: Rucksack
+    m_Weight: 0
+  - m_Path: NightVisionHelmet
+    m_Weight: 0
+  - m_Path: GogglesHelmet
+    m_Weight: 0
+  - m_Path: Mohawk
+    m_Weight: 0
+  - m_Path: Fedora
+    m_Weight: 0
+  - m_Path: Helmet
+    m_Weight: 0
+  - m_Path: MercenaryCap
+    m_Weight: 0
+  - m_Path: Stalhelm
+    m_Weight: 0
+  - m_Path: CombatHelmet
+    m_Weight: 0
+  - m_Path: HazardHat
+    m_Weight: 0
+  - m_Path: HairBuns
+    m_Weight: 0
+  - m_Path: Beanie
+    m_Weight: 0
+  - m_Path: SheriffHat
+    m_Weight: 0
+  - m_Path: OxygenMask
+    m_Weight: 0
+  - m_Path: PoliceCap
+    m_Weight: 0
+  - m_Path: RiotHelmet
+    m_Weight: 0
+  - m_Path: Beard
+    m_Weight: 0
+  - m_Path: Goatee
+    m_Weight: 0
+  - m_Path: FaceScarf
+    m_Weight: 0
+  - m_Path: GasMask
+    m_Weight: 0
+  - m_Path: TiltedCap
+    m_Weight: 0
+  - m_Path: Gloves
+    m_Weight: 0
+  - m_Path: Cap
+    m_Weight: 0
+  - m_Path: BackwardsCap
+    m_Weight: 0
+  - m_Path: FingerlessGloves
+    m_Weight: 0
+  - m_Path: TinySleeveFull
+    m_Weight: 0
+  - m_Path: LongSleeveSquare
+    m_Weight: 0
+  - m_Path: Human_Hips
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_LeftUpLeg
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_LeftUpLeg/Human_LeftLeg
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_LeftUpLeg/Human_LeftLeg/Human_LeftFoot
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_RightUpLeg
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_RightUpLeg/Human_RightLeg
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_RightUpLeg/Human_RightLeg/Human_RightFoot
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1/Human_LeftArm
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1/Human_LeftArm/Human_LeftForeArm
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1/Human_LeftArm/Human_LeftForeArm/Human_LeftHand
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1/Human_RightArm
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1/Human_RightArm/Human_RightForeArm
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1/Human_RightArm/Human_RightForeArm/Human_RightHand
+    m_Weight: 0
+  - m_Path: Human_Hips/Human_Spine/Human_Spine1/Human_Neck
+    m_Weight: 1
+  - m_Path: ShortSleeveSquare
+    m_Weight: 0
+  - m_Path: TinySleeveSquare
+    m_Weight: 0
+  - m_Path: CapPizza
+    m_Weight: 0
+  - m_Path: FireHat
+    m_Weight: 0
+  - m_Path: HelmetFull
+    m_Weight: 0
+  - m_Path: HelmetHalf
+    m_Weight: 0
+  - m_Path: HelmetMotocross
+    m_Weight: 0
